@@ -8,3 +8,8 @@ This section are dedicated for the result of our simulation (Optimized Reflectiv
 ## Theoric result
 ## Equivalent circuit
 # Roadmap
+1. Choose the right dimension of the Antenna
+2. Make the 3D modelisation
+3. Try to optimize the different parameters at their max (S(1,1), directivity, Gain, etc ...) with the length of the antenna
+4. Try to find a balanced compromise for all parameters - find the appropriate length
+5. Give the value of your electrical component by explaining the deduction
